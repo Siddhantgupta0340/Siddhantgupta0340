@@ -1,123 +1,169 @@
-# 👋 Hi, I'm Siddhant Gupta  
+<!-- ===================== PROFILE HEADER ===================== -->
 
-🚀 Frontend Developer | React.js Enthusiast  
-🎓 B.Tech Computer Science (2022–2026)  
-📍 Shivpuri, Madhya Pradesh, India  
+<h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
 
----
+<h3 align="center">
+Frontend / Software Developer | React.js | Next.js
+</h3>
 
-## 👨‍💻 About Me  
-
-I am a passionate **Frontend Developer** with strong skills in building  
-**modern, responsive, and user-friendly web applications**.
-
-I enjoy converting ideas into clean UI designs and writing optimized code  
-using **React.js and Tailwind CSS**.
-
-Currently, I am focused on improving my **DSA, problem-solving skills, and full-stack development knowledge**.
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+%7C+Next.js+Developer;Software+Engineering+Enthusiast;DSA+%7C+OOPs+%7C+DBMS;2026+Engineering+Graduate"
+  />
+</p>
 
 ---
 
-## 🎓 Education  
+## 🚀 About Me
 
-**B.Tech in Computer Science Engineering**  
-📍 IPS Academy, Indore  
-📅 2022 – 2026  
-📊 CGPA: 7.0  
-
----
-
-## 💼 Internship  
-
-### 🌐 Web Development Intern  
-**InternPe** — *June 2024*  
-
-- Developed responsive web pages  
-- Worked on HTML, CSS, JavaScript  
-- Improved UI/UX design skills  
-- Gained real-world project experience  
+- 🎓 B.Tech Computer Science Engineering (2022–2026)  
+- 🏫 IPS Academy, Indore  
+- 📍 Shivpuri, Madhya Pradesh  
+- 💻 Frontend / Software Developer  
+- ⚛️ React.js & Next.js developer  
+- 🧠 Strong foundation in DSA, OOPs, DBMS, OS  
+- 🌱 Exploring scalable full-stack applications  
+- 🎯 Goal: Software Engineer  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🧠 Technical Skills
 
-### 💻 Frontend Development  
-- HTML5  
-- CSS3  
+### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
+</p>
+
+- C++  
 - JavaScript (ES6+)  
-- React.js  
+- SQL  
 
-### 🎨 Styling & UI  
-- Bootstrap  
+---
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+</p>
+
+- HTML5, CSS3  
+- React.js  
+- Next.js  
 - Tailwind CSS  
+- Bootstrap  
 - Responsive Design  
 
-### ⚙️ Tools & Technologies  
-- Git  
-- GitHub  
+---
+
+### 🔗 Backend / APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+- REST APIs  
+- Prisma ORM  
+
+---
+
+### 📚 Core Computer Science
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOPs)  
+- DBMS  
+- Operating Systems  
+
+---
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite" />
+</p>
+
+- Git & GitHub  
 - VS Code  
+- Vite  
+- Vercel  
+- Unit Testing  
+- Technical Documentation  
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
-### 🔹 Siksha Sarthi – Educational Platform  
-**Tech:** React.js, Tailwind CSS  
+### 🤖 Sensei – AI Powered Career Coach (Major Project)
+**Tech:** React.js, Next.js, Tailwind CSS, Prisma ORM, REST APIs, Gemini AI  
 
-**Features:**  
-- Login & Register System  
-- Course Categories  
-- Tutor Profiles  
-- Responsive Sidebar Layout  
-- Clean and modern UI  
+- AI-driven career guidance platform  
+- Secure authentication and role-based access  
+- Personalized career recommendations  
+- Scalable modular architecture  
+- Unit testing and performance optimization  
+- Production-ready deployment  
 
 ---
 
-### 🔹 Cryptocurrency Price Tracker  
-**Tech:** React.js, API Integration  
+### 💰 Cryptocurrency Price Tracker
+**Tech:** React.js, JavaScript, REST APIs  
 
-**Features:**  
 - Live cryptocurrency prices  
-- Real-time API data  
-- User-friendly dashboard  
-- Responsive design  
+- Market trends and analytics  
+- API error handling  
+- Optimized frontend performance  
 
 ---
 
-### 🔹 Live American News App  
+### 📰 Live American News App
 **Tech:** React.js, NewsAPI  
 
-**Features:**  
-- Category-wise news  
-- Dark mode support  
-- Infinite scrolling  
-- Article details (date, time, author)  
+- Category-wise news filtering  
+- Infinite scrolling with pagination  
+- Responsive layout  
+- Reusable component architecture  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
----
-
-## 📫 Contact Me  
-
-📧 Email: **siddhantgupta0304@gmail.com**  
-📍 Location: Shivpuri, Madhya Pradesh  
-🔗 LinkedIn: [Siddhant Gupta](https://www.linkedin.com/in/siddhant-gupta-b7730930a)
-
----
-
-## 🎯 Career Objective  
-
-To secure a **Software Developer / Frontend Developer** role where I can  
-apply my technical skills, enhance my knowledge, and contribute to  
-building scalable and impactful applications.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*  
+## 🏆 Achievements
+
+- ✅ Solved **200+ DSA problems** on LeetCode  
+- ✅ Strong problem-solving in Arrays, Strings, Linked Lists  
+- ✅ Expertise in Recursion, Sorting, Searching  
+- ✅ Strong analytical and logical thinking  
+- ✅ Continuous learner with industry-focused mindset  
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** siddhantgupta0304@gmail.com  
+📞 **Phone:** +91-9589530325  
+📍 **Location:** Shivpuri, Madhya Pradesh  
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/siddhant-gupta-b7730930a  
+
+---
+
+## 🎯 Career Objective
+
+To work as a **Software / Frontend Developer** where I can apply my technical
+skills, build scalable applications, and contribute to impactful real-world
+products.
+
+---
+
+⭐ Thank you for visiting my GitHub profile!  
 If you like my work, feel free to ⭐ star my repositories.
